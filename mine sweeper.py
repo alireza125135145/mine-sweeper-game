@@ -1,3 +1,4 @@
+#debug on github
 x=int(input("Enter the number of rows:"))
 y=int(input("Enter the number of columns:"))
 n=int(input("Enter the number of bombs:"))
